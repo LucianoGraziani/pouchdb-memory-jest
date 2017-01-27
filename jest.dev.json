@@ -1,0 +1,5 @@
+{
+  "moduleFileExtensions": ["js", "jsx", "json"],
+  "moduleDirectories": ["node_modules", "src"],
+  "testRegex": "src/.*\\.test\\.jsx?$"
+}
